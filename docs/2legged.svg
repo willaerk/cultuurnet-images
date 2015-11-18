@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91+devel+osxmenu r12913"
-   sodipodi:docname="2legged.svg">
+   sodipodi:docname="2legged.svg"
+   inkscape:export-filename="/Users/willaerk/2legged.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs4">
     <marker
@@ -54,9 +57,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1009789"
-     inkscape:cx="708.9458"
-     inkscape:cy="839.05953"
+     inkscape:zoom="0.89571167"
+     inkscape:cx="653.95067"
+     inkscape:cy="753.68096"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -78,7 +81,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -131,7 +134,7 @@
     </g>
     <g
        id="g4344"
-       transform="translate(0,15.875004)">
+       transform="translate(0,19.579173)">
       <rect
          ry="5"
          y="101.64931"
@@ -154,91 +157,100 @@
            x="69.012436"
            sodipodi:role="line">Gebruik beschermde data</tspan></text>
     </g>
-    <g
-       id="g4320">
-      <rect
-         ry="5"
-         y="18.786615"
-         x="62.666668"
-         height="44.979168"
-         width="84.666664"
-         id="rect3338"
-         style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#646464;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         transform="scale(0.80235726,1.2463276)"
-         sodipodi:linespacing="125%"
-         id="text4166-0-0"
-         y="11.203859"
+    <rect
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#646464;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3338"
+       width="84.666664"
+       height="44.979168"
+       x="62.666668"
+       y="18.786615"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.43049383px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18576236px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="100.29897"
+       y="11.203859"
+       id="text4166-0-0"
+       sodipodi:linespacing="125%"
+       transform="scale(0.80235726,1.2463276)"><tspan
+         sodipodi:role="line"
+         id="tspan4168-2-4"
          x="100.29897"
-         style="font-style:normal;font-weight:normal;font-size:7.43049383px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18576236px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.18576236px"
-           y="11.203859"
-           x="100.29897"
-           id="tspan4168-2-4"
-           sodipodi:role="line">Service Consumer</tspan></text>
-      <text
-         transform="scale(0.99273221,1.007321)"
-         sodipodi:linespacing="125%"
-         id="text4227"
-         y="34.62672"
+         y="11.203859"
+         style="stroke-width:0.18576236px">Service Consumer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.38534546px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6464fb;fill-opacity:1;stroke:none;stroke-width:0.15963364px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="73.711029"
+       y="34.62672"
+       id="text4227"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99273221,1.007321)"><tspan
+         sodipodi:role="line"
          x="73.711029"
-         style="font-style:normal;font-weight:normal;font-size:6.38534546px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6464fb;fill-opacity:1;stroke:none;stroke-width:0.15963364px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           id="tspan4231"
-           style="fill:#6464fb;fill-opacity:1;stroke-width:0.15963364px"
-           y="34.62672"
-           x="73.711029"
-           sodipodi:role="line">Aanvraag beschermde</tspan><tspan
-           id="tspan4235"
-           style="fill:#6464fb;fill-opacity:1;stroke-width:0.15963364px"
-           y="42.608402"
-           x="73.711029"
-           sodipodi:role="line">data met getekende</tspan><tspan
-           id="tspan4237"
-           style="fill:#6464fb;fill-opacity:1;stroke-width:0.15963364px"
-           y="50.590084"
-           x="73.711029"
-           sodipodi:role="line">request</tspan></text>
-      <text
-         transform="scale(0.99448874,1.0055418)"
-         sodipodi:linespacing="125%"
-         id="text4292"
+         y="34.62672"
+         style="fill:#6464fb;fill-opacity:1;stroke-width:0.15963364px"
+         id="tspan4231">Aanvraag beschermde</tspan><tspan
+         sodipodi:role="line"
+         x="73.711029"
+         y="42.608402"
+         style="fill:#6464fb;fill-opacity:1;stroke-width:0.15963364px"
+         id="tspan4235">data met getekende</tspan><tspan
+         sodipodi:role="line"
+         x="73.711029"
+         y="50.590084"
+         style="fill:#6464fb;fill-opacity:1;stroke-width:0.15963364px"
+         id="tspan4237">request</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11051625px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="63.017941"
+       y="68.270142"
+       id="text4292"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99448874,1.0055418)"><tspan
+         sodipodi:role="line"
+         id="tspan4294"
+         x="63.017941"
          y="68.270142"
-         x="81.250999"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11051625px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
-           y="68.270142"
-           x="81.250999"
-           id="tspan4294"
-           sodipodi:role="line">oauth_consumer_key</tspan><tspan
-           id="tspan4296"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
-           y="73.795967"
-           x="81.250999"
-           sodipodi:role="line">oauth_nonce</tspan><tspan
-           id="tspan4298"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
-           y="79.321785"
-           x="81.250999"
-           sodipodi:role="line">oauth_timestamp</tspan><tspan
-           id="tspan4300"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
-           y="84.84761"
-           x="81.250999"
-           sodipodi:role="line">oauth_signature</tspan><tspan
-           id="tspan4302"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
-           y="90.373436"
-           x="81.250999"
-           sodipodi:role="line">oauth_signature_method</tspan><tspan
-           id="tspan4304"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
-           y="95.899261"
-           x="81.250999"
-           sodipodi:role="line">oauth_token (empty)</tspan></text>
-    </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"><tspan
+   id="tspan12447"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Authorization</tspan>: OAuth</tspan><tspan
+         id="tspan12437"
+         sodipodi:role="line"
+         x="63.017941"
+         y="73.795967"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px">    oauth_consumer_key</tspan><tspan
+         id="tspan12439"
+         sodipodi:role="line"
+         x="63.017941"
+         y="79.321785"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px">    oauth_version=&quot;1.0&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="63.017941"
+         y="84.84761"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
+         id="tspan4296">    oauth_nonce</tspan><tspan
+         sodipodi:role="line"
+         x="63.017941"
+         y="90.373436"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
+         id="tspan4298">    oauth_timestamp</tspan><tspan
+         sodipodi:role="line"
+         x="63.017941"
+         y="95.899261"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
+         id="tspan4300">    oauth_signature</tspan><tspan
+         sodipodi:role="line"
+         x="63.017941"
+         y="101.42508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
+         id="tspan4302">    oauth_signature_method=&quot;HMAC-SHA1&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="63.017941"
+         y="106.9509"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
+         id="tspan4304">    oauth_token (empty)</tspan></text>
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#6464fb;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="M 147.10833,40.089586 251.61875,39.825001"
