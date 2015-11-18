@@ -147,9 +147,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59"
-     inkscape:cx="672.57089"
-     inkscape:cy="-461.42123"
+     inkscape:zoom="1.03"
+     inkscape:cx="1085.0706"
+     inkscape:cy="-365.32118"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -671,5 +671,28 @@
          y="378.35037"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
          id="tspan12604">    oauth_verifier</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11051625px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="276.5231"
+       y="334.55289"
+       id="text4292-4-3-2"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99448875,1.0055418)"><tspan
+         sodipodi:role="line"
+         x="276.5231"
+         y="334.55289"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
+         id="tspan4302-6-4-4">userId</tspan><tspan
+         sodipodi:role="line"
+         x="276.5231"
+         y="340.0787"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
+         id="tspan12749">oauth_token</tspan><tspan
+         sodipodi:role="line"
+         x="276.5231"
+         y="345.60452"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42065859px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.11051625px"
+         id="tspan4304-7-5-8">oauth_token_secret</tspan></text>
   </g>
 </svg>
